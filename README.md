@@ -3,7 +3,7 @@ desarrollo y validación de un sistema de telemetría de doble nodo diseñado pa
 
 Gracias por todo profesor. 
 Nos vemos el siguiente semestre 
-
+```text
 ░░░░░░░░░░░░░░░░░░░░░░█████████
 ░░███████░░░░░░░░░░███▒▒▒▒▒▒▒▒███
 ░░█▒▒▒▒▒▒█░░░░░░░███▒▒▒▒▒▒▒▒▒▒▒▒▒███
@@ -19,3 +19,4 @@ Nos vemos el siguiente semestre
 ░█▒▒▒███████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██
 ░██▒▒▒▒▒▒▒▒▒▒████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█
 ░░████████████░░░█████████████████
+```
